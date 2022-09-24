@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.css';
-import Header from './src/Main';
-import Footer from './src/Navbar';
+import Main from './src/Main';
+import Navbar from './src/Navbar';
 
 
 export default function App() {
